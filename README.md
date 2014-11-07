@@ -1,4 +1,4 @@
 FireServer
 ==========
 
-FireServer is open source, released under the GNU General Public License (GPL) and runs on top of CentOS Linux.
+FireServer is open source, released under the GNU General Public License (GPL2) and runs on top of CentOS Linux.
