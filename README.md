@@ -17,7 +17,6 @@ Visit: www.fireserver.com.br
 		-Adjust packages structure to adhere to LSB (Linux Standard Base)
 
 		Firecore (The core webservice of the FireServer)
-		-Stable running in daemon mode
 		-APIs specific for additional applications for FireServer
 
 		Webface (Web Interface of the FireServer) stable with consistent tasks:
